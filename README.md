@@ -1,1 +1,1 @@
-# FoDS-Assignments
+# Fundamentals of Data Science Assignments
